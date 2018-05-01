@@ -1,7 +1,7 @@
 # odsc_18_sigproc
 Materials used for Talk on Filtering of Time Series, ODSC East, May 2018
 
-# Requirements
+# Requirements for Jupyter Notebook
 * Python 2.7 
 * *pandas* 0.18.1
 * *numpy* 1.11.0
